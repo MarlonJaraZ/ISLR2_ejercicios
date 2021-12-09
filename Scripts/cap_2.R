@@ -56,3 +56,22 @@ persp(X, Y, fa , theta = 30, phi = 40,
       col = "lightblue", 
       shade = 0.75,
       ticktype = "detailed")
+
+
+# Matrices ----------------------------------------------------------------
+
+
+A <- matrix (1:16 , 4, 4)
+A
+
+
+
+# Datos -------------------------------------------------------------------
+
+
+# para visualizar los datos del dataset Auto:
+Auto
+
+read.csv("Auto.csv")
+read.csv("Auto.csv")
+Pag50
